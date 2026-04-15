@@ -19276,5 +19276,12 @@
     "author": "Santi Younger",
     "description": "Calculate reading time estimates for selected text using your own reading speed in Words Per Minute.",
     "repo": "santiyounger/wpm-reading-time"
+  },
+  {
+    "id": "quotenote",
+    "name": "QuoteNote",
+    "author": "ajsscott",
+    "description": "Turn highlighted text into referenceable, Dataview-queryable blocks with configurable metadata and block IDs.",
+    "repo": "ajsscott/obsidian-quotenote"
   }
 ]
